@@ -1,0 +1,40 @@
+.searchbar {
+    margin: 5% auto;
+}
+
+.location {
+    color: white;
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: right;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid yellow;
+}
+
+.flex-child:first-child {
+    margin-right: 100px;
+} 
+
+.HomeCard {
+    background-color: #f9c5d1;
+    background-image: linear-gradient(to top, #f9c5f0 0%, #3e2a64 74%);//#f9c5d1 0%, #9795ef
+    height: 510px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 1rem 1rem 1rem 1rem;
+}
+
+.WeekCard {
+    background-color: gray;
+    height: 300px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 0 0 1rem 1rem;
+}

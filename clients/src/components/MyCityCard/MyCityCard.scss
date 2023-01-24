@@ -1,0 +1,64 @@
+.my-city-card {
+    background-color: white;
+    height: 600px;
+    width: 340px;
+    margin: 1px;
+    box-sizing: border-box;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.min-temp-block {
+    display: inline-block;
+    width: 8rem;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.max-temp-block {
+    display: inline-block;
+    width: 8rem;
+    margin-top: 5px;
+    margin-right: 1px;
+}
+
+.caret-down {
+    color: red;
+}
+
+.caret-up {
+    color: #00e6b4;
+}
+
+.card-title {
+    font-size: 30px;
+}
+
+.weather-img {
+    width: 200px;
+}
+
+.temp {
+    font-size: 3rem;
+}
+
+.desc {
+    font-size: 1.5rem;
+}
+
+.min-temp {
+    font-size: 2rem;
+}
+
+.max-temp {
+    font-size: 2rem;
+}
+
+.min-temp-text {
+    color: red;
+    font-size: 1rem;
+}
+
+.max-temp-text {
+    color: #00e6b4;
+}
