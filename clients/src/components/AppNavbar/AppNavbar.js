@@ -30,12 +30,12 @@ const AppNavbar = (props) => {
             </NavItem>          
             <NavItem>
                 <NavLink>
-                    <Link to="/my_cities">My Cities</Link>
+                    <Link to="/my_cities">My Cities(Here is showing Your City Name)</Link>
                 </NavLink>
             </NavItem>
             <NavItem>
               <NavLink>
-                    <Link to="/add_city">Add City</Link>
+                    <Link to="/add_city">Add City (Here You can add your city)</Link>
                 </NavLink>
             </NavItem>
             <NavItem>
