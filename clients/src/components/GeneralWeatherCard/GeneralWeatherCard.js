@@ -14,6 +14,6 @@ const GeneralWeatherCard = ({ weatherInfo, icon }) => {
           </div>
         </div>
      );
-}
+};
  
 export default GeneralWeatherCard;
