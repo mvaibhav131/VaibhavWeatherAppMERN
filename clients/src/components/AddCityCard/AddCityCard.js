@@ -7,6 +7,6 @@ const AddCityCard = () => {
             <Link to="/add_city">click here</Link>
         </div>
      );
-}
+};
  
 export default AddCityCard;
