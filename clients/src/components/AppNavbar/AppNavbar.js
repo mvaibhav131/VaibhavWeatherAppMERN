@@ -48,6 +48,6 @@ const AppNavbar = (props) => {
       </Navbar>
     </div>
   );
-}
+};
 
 export default AppNavbar;
