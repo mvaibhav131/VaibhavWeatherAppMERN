@@ -24,7 +24,7 @@ class AddCity extends Component {
         return (
             <Searchbar handleSubmit={this.handleSubmit} />
         );
-    }
-}
+    };
+};
  
 export default AddCity;
