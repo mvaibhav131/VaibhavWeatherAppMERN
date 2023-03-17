@@ -15,7 +15,7 @@ export default (props) => {
       }
     } catch (e) {
       console.log(e);
-    }
+    };
   };
 
   return (
