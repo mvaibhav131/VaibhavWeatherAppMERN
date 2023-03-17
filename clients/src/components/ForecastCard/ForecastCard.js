@@ -21,7 +21,7 @@ const ForecastCard = ({ item }) => {
             <img src={iconUrl}></img>
         </div>
      );
-}
+};
 
 ForecastCard.propTypes = {
   item: PropTypes.object
