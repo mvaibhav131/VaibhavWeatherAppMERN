@@ -20,7 +20,7 @@ const Forecast = ({ forecastInfo, handleClick }) => {
       </div>
     </div>
    );
-}
+};
  
 Forecast.propTypes = {
   forecastInfo: PropTypes.array,
