@@ -23,7 +23,7 @@ const Chart = ({forecastInfo,handleClick}) => {
             </ResponsiveContainer>
         </div>
      );
-}
+};  
  
 export default Chart;
 
